@@ -65,3 +65,6 @@ dkms.conf
 *.1.*
 *.log
 *.lastbuildstate
+
+## DS_Store 무시용
+*.DS_Store
